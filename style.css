@@ -161,8 +161,8 @@ button, a {
     overflow: hidden;
 }
 
-.more-info-section .img-section {
-    position: relative;
+.more-info-section .img-section img{
+    width: 70%;
 }
 
 /* .more-info-section .img-section img {
